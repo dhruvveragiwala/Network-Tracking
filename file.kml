@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <Style id="transBluePoly">
+        <LineStyle>
+            <width>1.5</width>
+            <color>501400E6</color>
+        </LineStyle>
+    </Style>
+    
+    <!-- Indexed Placemark Data -->
+    <Placemark>
+        <name>1. 65.0.119.56</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-89.160300,33.544700 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>2. 34.84.111.50</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-95.345400,29.966800 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>3. 208.115.231.58</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-96.802800,32.779100 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>4. 104.19.189.84</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-97.822000,37.751000 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>5. 162.247.243.29</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-97.822000,37.751000 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>6. 95.216.192.15</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>24.937500,60.170800 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>7. 20.69.137.228</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-97.822000,37.751000 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>8. 20.198.5.70</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-97.822000,37.751000 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>9. 20.212.88.117</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-97.822000,37.751000 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>10. 142.250.205.238</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-122.057400,37.419200 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>11. 74.125.130.188</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-122.057400,37.419200 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+    
+    <Placemark>
+        <name>12. 4.195.15.176</name>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <styleUrl>#transBluePoly</styleUrl>
+        <LineString>
+            <coordinates>-97.822000,37.751000 77.000000,20.000000</coordinates>
+        </LineString>
+    </Placemark>
+</Document>
+</kml>
